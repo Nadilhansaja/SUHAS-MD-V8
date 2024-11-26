@@ -1,7 +1,7 @@
 {
   "name": "SUHAS-MD-V8",
-  "description": "Javascript WhatsApp bot made by Suhas Pathsindu",
-  "logo": "https://telegra.ph/file/fa2ef290194c0cf1f8af3.jpg",
+  "description": "Javascript WhatsApp bot made by Nadil Hansaja",
+  "logo": "https://i.ibb.co/hCrGbHg/IMG-20241103-WA0061.jpg",
   "keywords": ["bot"],
   "success_url": "/",
 
